@@ -2,4 +2,7 @@
 title: "index"
 format: html
 ---
-
+about: 
+  links:
+    - text: Lab3
+      href: https://alanccai.github.io/csu-ess-lab3/lab-03.html
