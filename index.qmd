@@ -1,3 +1,8 @@
 ---
 title: "index"
+format: html
 ---
+
+<script>
+  window.location.href = "lab-03.html";
+</script>
