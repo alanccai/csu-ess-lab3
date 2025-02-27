@@ -3,9 +3,6 @@ project:
   output-dir: docs
   type: website
 
-# website:
-#   title: "My Lab 03 Report"
-
 format:
   html:
     self-contained: true
