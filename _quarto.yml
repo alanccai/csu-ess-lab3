@@ -9,7 +9,7 @@ website:
   navbar:
     left:
       - href: lab-03.qmd
-        text: "Lab 03"
+        text: ""
   page-navigation: false
 
 format:
