@@ -2,6 +2,16 @@ project:
   title: "csu-ess-lab3"
   output-dir: docs
 
+  type: website
+
+website:
+  title: "My Lab 03 Report"
+  navbar:
+    left:
+      - href: lab-03.qmd
+        text: "Lab 03"
+  page-navigation: false
+
 format:
   html:
     self-contained: true
