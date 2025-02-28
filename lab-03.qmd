@@ -10,7 +10,7 @@ execute:
 ---
 
 ```{r}
-library(zoo)
+library(zoo) 
 library(flextable)
 library(tidyverse)
 
